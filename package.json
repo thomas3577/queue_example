@@ -1,0 +1,27 @@
+{
+  "name": "queue_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomas3577/queue_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomas3577/queue_example/issues"
+  },
+  "homepage": "https://github.com/thomas3577/queue_example#readme",
+  "dependencies": {
+    "rxjs": "^6.6.6"
+  },
+  "devDependencies": {
+    "ts-node": "9.1.1",
+    "typescript": "4.2.2"
+  }
+}
